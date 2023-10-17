@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este App foi feito em React para consumir uma API REST do Viacep. Este projeto introdutório, tem como objetivo ensinar React aos particicipantes do meu minicurso na seminfo de 2023. Vale ressaltar, que este é apenas um dos projetos que será criado ao decorrer do minicurso.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
