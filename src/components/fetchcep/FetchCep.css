@@ -1,0 +1,15 @@
+.box-input-button{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 20px auto;
+}
+.box-input-button > input{
+    font-size: 25px;
+}
+.box-input-button > button{
+    width: 150px;
+    margin-left: 10px;
+}
+
+
